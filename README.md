@@ -17,7 +17,7 @@
 _Yuxuan Cai is a first year master student in MACSS at the University of Chicago.He has a diverse background in environmental design, landscape design, urban design, and architectural design, and has received awards from the American Society of Landscape Architects, IFLA, and WLA. His recent research focuses on urban data and exploring characteristics and different elements relationship of urban dynamic system using computer technology._
 
 ## Website
-_Welcome to my personal website(It's still under construction): (yuxuancai.com)_
+_Welcome to my personal website(It's still under construction): (https://yuxuancai.com)_
 
 ## Summary
 - Repository Setup: Accept assignment links from GitHub.
