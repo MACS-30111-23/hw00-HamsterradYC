@@ -8,7 +8,7 @@
 **Landscape Architecture and Urban Designer**
 **RTS Game Enthusiast**
 
-![My Image](\me.jpg)
+![My Image](D:\data\macss\MACS30111\HamsterradYC\me.jpg)
 
 ## Biography
 - :keyboard:2023-2025: MACSS University of Chicago
