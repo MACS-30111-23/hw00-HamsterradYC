@@ -8,7 +8,7 @@
 **Landscape Architecture and Urban Designer**
 **RTS Game Enthusiast**
 
-![My Image](D:\data\macss\MACS30111\HamsterradYC\me.jpg)
+![My Image](.\me.jpg)
 
 ## Biography
 - :keyboard:2023-2025: MACSS University of Chicago
@@ -22,7 +22,7 @@ _Welcome to my personal website(It's still under construction): (yuxuancai.com)_
 ## Summary
 - Repository Setup: Accept assignment links from GitHub.
 - Clone the Repository:use git clone to get the file to my personal PC.
-- Work on Assignment: Download extention tool 'Markdown Preview Enhanced', give me a window for real-time preview effect, easy to modify.Then refer the syntax of markdown to complete the content._(I uploaded the image use local path(D:\data\macss\MACS30111\HamsterradYC\me.jpg) but it never showed up :thinking:)_ _This link work(\me.jpg) work in preview tool but stil not work in github:thinking: :thinking: :thinking:_ _ try to follow https://blog.csdn.net/m0_46109609/article/details/109428244  modify DNS and hosts_
+- Work on Assignment: Download extention tool 'Markdown Preview Enhanced', give me a window for real-time preview effect, easy to modify.Then refer the syntax of markdown to complete the content._(I uploaded the image use local path(D:\data\macss\MACS30111\HamsterradYC\me.jpg) but it never showed up :thinking:)_ _This link work(.\me.jpg\me.jpg) work in preview tool but stil not work in github:thinking: :thinking: :thinking:_ _ try to follow https://blog.csdn.net/m0_46109609/article/details/109428244  modify DNS and hosts_
 - Commit Changes: Use ''git add'' to stage the changes then use ''git commit'' to commit the changes with a descriptive commit message.
 - Push Changes to GitHub: Use git push to upload my committed changes to the GitHub repository. 
 - Upload to Gradescope.
